@@ -1,5 +1,4 @@
-namespace  BookShopCsharp.Models;
-
+namespace BookSHopCsharp.Models;
 public class Author
 {
     public int Id { get; set; }

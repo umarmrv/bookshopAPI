@@ -1,7 +1,6 @@
 
 //dotnet add package Swashbuckle.AspNetCore  --  have to download this for swagger 
 
-using BookShopCsharp;
 using BookSHopCsharp;
 using Microsoft.EntityFrameworkCore;
 

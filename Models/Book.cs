@@ -1,4 +1,4 @@
-namespace  BookShopCsharp.Models;
+namespace BookSHopCsharp.Models;
 
 
 public class Book
@@ -10,5 +10,10 @@ public class Book
     public int AuthorID  { get; set; }
     //setting up models.ForeignKey from author ?? 
     public Author Author { get; set; }
+    
+    
+    // making many to many set 
+    
+    public List<Category> Categories { get; set; } = new();
     
 }

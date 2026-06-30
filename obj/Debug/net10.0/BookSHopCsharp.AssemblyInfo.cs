@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookSHopCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+737297bc01b207def6a85792398b8b801f90ff9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50275e83cb74e953a6d74617481e4274851154f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookSHopCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookSHopCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
